@@ -13,9 +13,9 @@ Video demo:
 https://www.youtube.com/watch?v=ZpRwPKexovQ
 
 Seguinos en:
-https://www.youtube.com/proyectoCUAR
-https://www.facebook.com/proyectoCUAR
-https://twitter.com/proyectoCUAR
+- https://www.youtube.com/proyectoCUAR
+- https://www.facebook.com/proyectoCUAR
+- https://twitter.com/proyectoCUAR
 
 
-* This source is licensed under a GPLv3 License
+** This source is licensed under a GPLv3 License
